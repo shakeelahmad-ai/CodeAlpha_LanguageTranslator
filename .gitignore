@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+venv/
+.venv/
+
+voice.mp3
+history.txt
+
+.vscode/
+
+.DS_Store
+Thumbs.db
